@@ -2610,7 +2610,7 @@ video {
   height: 600px;
 }
 .hero_single.version_2 {
-  height: 620px;
+  height: 550px;
 }
 .hero_single.version_2:before {
   background: url(../img/home_section_1.jpg) center center no-repeat;
